@@ -1,4 +1,5 @@
  syms x
 F=tan(3*x);
-T=expand(F)
+T=expand(F);
+
 pretty(T)
