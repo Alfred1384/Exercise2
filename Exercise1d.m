@@ -1,0 +1,6 @@
+% MATLAB symbolic computation for Exercise4a
+syms x
+S1=x^2*(x-6)+4*(3*x-2);
+S2=(x+2)^2-8*x;
+F=S1+S2;
+subs(F,x,5)
