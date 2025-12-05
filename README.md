@@ -22,9 +22,8 @@ cos(x)*cos(y)
 (c)
                    3
   3 tan(x) - tan(x)
-- ------------------
-             2
-  3 tan(x)  - 1
+- ___________________
+  3 tan(x)^2  - 1
   -------------
   (d)
   cos(x) cos(y) sin(z) + cos(x) cos(z) sin(y) + cos(y) cos(z) sin(x) - sin(x) sin(y) sin(z)
