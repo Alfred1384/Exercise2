@@ -20,7 +20,7 @@
 8 cos(x) sin^3(x) - 4 cos(x) sin(x)  
 
 (b)  
-1/2 * cos(x - y) + 1/2 * cos(x + y)  
+cos(x)*cos(y)  
 
 (c)  
 (3 tan(x) - tan^3(x)) / (1 - 3 tan^2(x))  
